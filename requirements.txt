@@ -1,1 +1,7 @@
-apt_pkg
+numpy
+scipy
+matplotlib
+ipython
+pandas
+sympy
+nose
