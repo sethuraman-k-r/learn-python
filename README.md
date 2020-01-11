@@ -6,7 +6,7 @@ and integrate systems more effectively
 The main aim of this tutorial is to cover all the concepts of Python from basic to advanced for beginner to expert
 
 **To get started with this tutorial as follows:**
-    
+
     1. Getting Started - Installation
     2. Using Python from Command Prompt/Terminal
     3. Getting Started - PIP
@@ -16,5 +16,6 @@ The main aim of this tutorial is to cover all the concepts of Python from basic 
     7. Data Structures
     8. Error Handling
     9. Classes
+    10. Virtual Environment
 
 **Stay Connected** - More resources are on the way
