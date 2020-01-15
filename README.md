@@ -17,5 +17,6 @@ The main aim of this tutorial is to cover all the concepts of Python from basic 
     8. Error Handling
     9. Classes
     10. Virtual Environment
+    11. Built-in Functions
 
 **Stay Connected** - More resources are on the way
